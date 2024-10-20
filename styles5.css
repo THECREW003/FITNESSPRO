@@ -9,11 +9,11 @@ body {
     line-height: 1.6;
     background-color: #f4f4f4;
     color: #333;
-    background-image: url('file:///C:/Users/Suchith/Desktop/side-view-shot-fit-young-260nw-546755233.webp'); /* Replace with your image URL */
-    background-size: cover; /* Cover the entire viewport */
-    background-position: center; /* Center the image */
-    background-repeat: no-repeat; /* Prevent image repetition */
-    height: 120vh; /* Full height */
+    background-image: url('file:///C:/Users/Suchith/Desktop/project/side-view-shot-fit-young-260nw-546755233.webp'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    height: 120vh; 
 }
 
 header {
